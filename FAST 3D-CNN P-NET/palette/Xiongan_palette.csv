@@ -1,0 +1,22 @@
+className,R,G,B,Number
+Unclassified,0,0,0,0
+Acer negundo,0,139,0,1
+Willow,0,0,255,2
+Elm,255,255,0,3
+Paddy,0,255,255,4
+Sophora japonica,255,0,255,5
+Fraxinus chinensis,139,139,0,6
+Glodenr ain tree,0,139,139,7
+Waters,0,255,0,8
+Bare ground,41,47,163,9
+Stubble,255,127,80,10
+Acacia,127,255,0,11
+Corn,92,65,227,12
+Pyrus,46,139,87,13
+Soybean,0,0,139,14
+Poplar,255,165,0,15
+Vegetable field,127,255,212,16
+Sparse forest,218,112,214,17
+Grass,255,0,0,18
+Peach,205,0,0,19
+Building,139,0,0,20

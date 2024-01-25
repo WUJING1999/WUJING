@@ -1,0 +1,12 @@
+className,R,G,B,Number
+Unclassified,0,0,0,0
+Masson pine,255,0,0,1
+Bamboo forest,0,255,0,2
+Tea plant,46,139,87,3
+Reed,255,255,0,4
+Rice paddy,0,255,255,5
+Sweet potato,255,0,255,6
+Caraway,176,48,96,7
+Weed,160,32,240,8
+Water,0,0,255,9
+Building/road,255,127,80,10

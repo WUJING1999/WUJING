@@ -1,0 +1,18 @@
+className,R,G,B,Number
+Unclassified,255,255,255,0
+ Alfalfa,255,254,137,1
+ Corn-notill,3,28,241,2
+ Corn-mintill,255,89,1,3
+ Corn,5,255,133,4
+ Grass-pasture,255,2,251,5
+ Grass-trees,89,1,255,6
+ Grass-pasture-mowed,3,171,255,7
+ Hay-windrowed,12,255,7,8
+ Oats,172,175,84,9
+ Soybean-notill,160,78,158,10
+ Soybean-mintill,101,173,255,11
+ Soybean-clean,60,91,112,12
+ Wheat,104,192,63,13
+ Woods,139,69,46,14
+ Buildings-Grass-Trees-Drives,119,255,172,15
+ Stone-Steel-Towers,254,255,3,16
